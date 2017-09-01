@@ -1,1 +1,6 @@
 #Archivo 2
+--------
+#Notas del comparativo
+1
+2
+3
