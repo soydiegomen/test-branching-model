@@ -1,1 +1,7 @@
 #Archivo 1
+-----
+#Notas del comparativo de cotizaciones
+1
+2
+3
+-----
